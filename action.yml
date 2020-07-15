@@ -1,6 +1,6 @@
-name: 'PHP STatic ANalyser (phpstan)'
-description: 'PHPSTAN run'
-author: 'David Lumaye (chindit)'
+name: 'PHPStan M2 Github Action'
+description: 'runs PHPStan against M2 code'
+author: 'Ben Unsworth'
 branding:
     icon: 'zap'
     color: 'green'
